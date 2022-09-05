@@ -24,10 +24,9 @@ A webpage to search for movies!  User can search for movie titles in order to vi
 
 
 ## Stretch Goals
+
 - Add Movie Theater look up time.
 - Add Movie Trailers with the Movie Details.
 - Add Filter by Movie Genre.
-- Add Movie Run Time.
-- Add a "Return" button.
 - Add Pagination to view more results.
 
