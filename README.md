@@ -5,9 +5,8 @@ A webpage to search for movies!  User can search for movie titles in order to vi
 ## Developers
 - Devashish
 - Rajnish
-- SaumadiptaEvan Diaz 
-- RohitDanielle James 
-
+- Saumadipta
+- Rohit
 ## Installation Instructions
 1. Clone our repo to your computer
 2. Open the main page (index.html) on your browser to view
