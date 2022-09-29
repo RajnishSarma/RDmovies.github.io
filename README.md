@@ -30,3 +30,5 @@ A webpage to search for movies!  User can search for movie titles in order to vi
 - Add Filter by Movie Genre.
 - Add Pagination to view more results.
 
+## Checkout the page 
+- https://rajnishsarma.github.io/RDmovies.github.io/
